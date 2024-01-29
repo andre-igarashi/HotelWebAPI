@@ -17,3 +17,7 @@ Certifique-se de ter o [SDK .NET](https://dotnet.microsoft.com/download) instala
 ## Configuração do Ambiente
 
 A aplicação utiliza o Entity Framework para interação com o banco de dados. Certifique-se de configurar a string de conexão no arquivo `appsettings.json`.
+
+## Video explicativo
+
+https://drive.google.com/drive/folders/10OPTsvEWqs3zIxLrbtP3Q3c-zop8HmD3?usp=drive_link
