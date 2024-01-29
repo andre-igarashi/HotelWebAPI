@@ -10,7 +10,7 @@ Esta API foi criada para fornecer funcionalidades essenciais para a gestão de u
 
 Certifique-se de ter o [SDK .NET](https://dotnet.microsoft.com/download) instalado.
 
-1. Clone o repositório: `git clone https://github.com/seu-usuario/HotelWebAPI.git`
+1. Clone o repositório: `git clone https://github.com/AIgarashi1/HotelWebAPI.git`
 2. Navegue até o diretório do projeto: `cd HotelAPI`
 3. Restaure as dependências: `dotnet restore`
 
